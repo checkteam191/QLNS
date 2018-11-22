@@ -39,6 +39,7 @@ namespace QuanLyNhanSu.GUI
             cboChucVu.DataSource = ChucVuDAO.LoadChucVu();
             cboChucVu.DisplayMember = "TEN";
             cboChucVu.ValueMember = "CHUCVUID";
+            //add commit here
         }
         void AddNhanVienBinding()
         {
