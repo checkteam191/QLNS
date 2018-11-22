@@ -23,6 +23,7 @@ namespace QuanLyNhanSu.GUI
             AddBangCapBinding();
 
             //Add comment here
+            //Add comment here2
         }
         void LoadBangCap(int idnv)
         {
