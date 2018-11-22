@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//Mọi thứ có vẻ vẫn đang khá ổn.
 namespace QuanLyNhanSu
 {
     public partial class FrmMain : Form
