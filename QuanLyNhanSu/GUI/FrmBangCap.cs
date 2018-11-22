@@ -21,6 +21,8 @@ namespace QuanLyNhanSu.GUI
             dgrBangCap.DataSource = list;
             LoadcboNhanVien();
             AddBangCapBinding();
+
+            //Add comment here
         }
         void LoadBangCap(int idnv)
         {
