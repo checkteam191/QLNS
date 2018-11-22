@@ -205,6 +205,8 @@ namespace QuanLyNhanSu
             //frmtg.Show();
         }
 
+        //delete something
+
         private void barThongKeNhanVienSapNghiHuu_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
             FrmThongKeNhanVienSapNghiHuu frmtg = new FrmThongKeNhanVienSapNghiHuu();
